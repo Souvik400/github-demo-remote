@@ -3,7 +3,7 @@ def add(x,y):
     return x+y
 #Substrack Implementation
 def substrack(x,y):
-    return x-y   #on master branch
+    return x-y   #from remote repositary
 #Multiply Implementation
 def multiply(x,y):
     return x*y   # on Bug456
