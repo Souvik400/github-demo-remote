@@ -1,13 +1,13 @@
-#add Implementation
+#Add Implementation
 def add(x,y):
     return x+y
-#substrack Implementation
+#Substrack Implementation
 def substrack(x,y):
     return x-y   #on master branch
-#multiply Implementation
+#Multiply Implementation
 def multiply(x,y):
     return x*y   # on Bug456
-#divide Implementation
+#Divide Implementation
 def divide(x,y):
     if y==0 :           #on Bug789 branch
         return Divide_By_0_Error
