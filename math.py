@@ -13,7 +13,4 @@ def divide(x,y):
         return Divide_By_0_Error
     else:
         return x/y
-#Square Implementation
-def square(x):
-    return x*x
 
